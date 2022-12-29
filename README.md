@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sarahussain556, I am a software engineer at To the new, Pvt.Ltd
+- 👀 I’m interested to learn new technologies, frameworks and keep learning to code better each day.
+- 🌱 I’m currently learning React js, java script advanced, scss, AEM etc
+- 🎓 Completed by masters in computer application from Jamia Millia Islamia, New Delhi in 2022.
+- 🏠 My hometown is in Lucknow. 
